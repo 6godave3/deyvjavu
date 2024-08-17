@@ -940,10 +940,10 @@ def help():
     stdout.write(
         "             " + Fore.LIGHTCYAN_EX + "║ \x1b[38;2;255;20;147m• " + Fore.LIGHTWHITE_EX + "credit   " + Fore.LIGHTCYAN_EX + "|" + Fore.LIGHTWHITE_EX + " Show credit                            " + Fore.LIGHTCYAN_EX + "║\n")
     stdout.write(
-        "             " + Fore.LIGHTCYAN_EX + "║ \x1b[38;2;255;20;147m• " + Fore.LIGHTWHITE_EX + "exit     " + Fore.LIGHTCYAN_EX + "|" + Fore.LIGHTWHITE_EX + " Exit 0x-DDoS                       " + Fore.LIGHTCYAN_EX + "║\n")
+        "             " + Fore.LIGHTCYAN_EX + "║ \x1b[38;2;255;20;147m• " + Fore.LIGHTWHITE_EX + "exit     " + Fore.LIGHTCYAN_EX + "|" + Fore.LIGHTWHITE_EX + " Exit Deyv-DDoS                       " + Fore.LIGHTCYAN_EX + "║\n")
     stdout.write("             " + Fore.LIGHTCYAN_EX + "╠═════════════════════════════════════════════════════╣\n")
     stdout.write(
-        "             " + Fore.LIGHTCYAN_EX + "║ \x1b[38;2;255;20;147m• " + Fore.LIGHTWHITE_EX + "THANK    " + Fore.LIGHTCYAN_EX + "|" + Fore.LIGHTWHITE_EX + " Thanks for using 0x-DDoS.                " + Fore.LIGHTCYAN_EX + "║\n")
+        "             " + Fore.LIGHTCYAN_EX + "║ \x1b[38;2;255;20;147m• " + Fore.LIGHTWHITE_EX + "THANK    " + Fore.LIGHTCYAN_EX + "|" + Fore.LIGHTWHITE_EX + " Thanks for using Deyv-DDoS.                " + Fore.LIGHTCYAN_EX + "║\n")
     stdout.write(
         "             " + Fore.LIGHTCYAN_EX + "║ \x1b[38;2;255;20;147m• " + Fore.LIGHTWHITE_EX + "YOU♥     " + Fore.LIGHTCYAN_EX + "|" + Fore.LIGHTWHITE_EX + " Plz star project :)                    " + Fore.LIGHTCYAN_EX + "║\n")
     stdout.write("             " + Fore.LIGHTCYAN_EX + "╚═════════════════════════════════════════════════════╝\n")
@@ -1075,11 +1075,11 @@ def title():
     stdout.write("             " + Fore.LIGHTCYAN_EX + "        ══╦═════════════════════════════════╦══\n")
     stdout.write("             " + Fore.LIGHTCYAN_EX + "╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write(
-        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "        Welcome To The Main Screen Of Deyv-DDOS " + Fore.LIGHTCYAN_EX + "      ║\n")
+        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "      Welcome To The Main Screen Of Deyv-DDOS " + Fore.LIGHTCYAN_EX + "      ║\n")
     stdout.write(
         "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "          Type [help] to see the Commands    " + Fore.LIGHTCYAN_EX + "       ║\n")
     stdout.write(
-        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "         Contact Deyv - Facebook @Marshall Dave Añana   " + Fore.LIGHTCYAN_EX + " ║\n")
+        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "    Contact Deyv - Facebook @Marshall Dave Añana   " + Fore.LIGHTCYAN_EX + " ║\n")
     stdout.write("             " + Fore.LIGHTCYAN_EX + "╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 
@@ -1087,7 +1087,7 @@ def title():
 ##############################################################################################
 def command():
     stdout.write(
-        Fore.LIGHTCYAN_EX + "╔═══" + Fore.LIGHTCYAN_EX + "[""root" + Fore.LIGHTGREEN_EX + "@" + Fore.LIGHTCYAN_EX + "0x-DDOS" + Fore.CYAN + "]" + Fore.LIGHTCYAN_EX + "\n╚══\x1b[38;2;0;255;189m> " + Fore.WHITE)
+        Fore.LIGHTCYAN_EX + "╔═══" + Fore.LIGHTCYAN_EX + "[""root" + Fore.LIGHTGREEN_EX + "@" + Fore.LIGHTCYAN_EX + "Deyv-DDOS" + Fore.CYAN + "]" + Fore.LIGHTCYAN_EX + "\n╚══\x1b[38;2;0;255;189m> " + Fore.WHITE)
     command = input()
     if command == "cls" or command == "clear":
         clear()
