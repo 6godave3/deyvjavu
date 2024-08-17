@@ -1056,20 +1056,30 @@ def tools():
 
 ##############################################################################################
 def title():
-    stdout.write("              ░█████╗░██╗░░██╗░░░░░░██████╗░██████╗░░█████╗░░██████╗ \n")
-    stdout.write("              ██╔══██╗╚██╗██╔╝░░░░░░██╔══██╗██╔══██╗██╔══██╗██╔════╝  \n")
-    stdout.write("              ██║░░██║░╚███╔╝░█████╗██║░░██║██║░░██║██║░░██║╚█████╗░  \n")
-    stdout.write("              ██║░░██║░██╔██╗░╚════╝██║░░██║██║░░██║██║░░██║░╚═══██╗  \n")
-    stdout.write("              ╚█████╔╝██╔╝╚██╗░░░░░░██████╔╝██████╔╝╚█████╔╝██████╔╝  \n")
-    stdout.write("              ░╚════╝░╚═╝░░╚═╝░░░░░░╚═════╝░╚═════╝░░╚════╝░╚═════╝░  \n")
+    stdout.write("  ;                                                 ;           ;                              \n")
+    stdout.write("  ED.                                               ED.         ED.              :             \n")
+    stdout.write("  E#Wi                 ,;                           E#Wi        E#Wi            t#,           .\n")
+    stdout.write("  E###G.             f#i                            E###G.      E###G.         ;##W.         ;W\n")
+    stdout.write("  E#fD#W;          .E#t  f.     ;WE.                E#fD#W;     E#fD#W;       :#L:WE        f#E\n")
+    stdout.write("  E#t t##L        i#W,   E#,   i#G t      .DD.      E#t t##L    E#t t##L     .KG  ,#D     .E#f \n")
+    stdout.write("  E#t  .E#K,     L#D.    E#t  f#f  EK:   ,WK.       E#t  .E#K,  E#t  .E#K,   EE    ;#f   iWW;  \n")
+    stdout.write("  E#t    j##f  :K#Wfff;  E#t G#i   E#t  i#D.......  E#t    j##f E#t    j##f f#.     t#i L##Lffi\n")
+    stdout.write("  E#t    :E#K: i##WLLLLt E#jEW,    E#t j#f GEEEEEEf.E#t    :E#K:E#t    :E#K::#G     GK tLLG##L \n")
+    stdout.write("  E#t   t##L    .E#L     E##E.     E#tL#i           E#t   t##L  E#t   t##L   ;#L   LW.   ,W#i  \n")
+    stdout.write("  E#t .D#W;       f#E:   E#G       E#WW,            E#t .D#W;   E#t .D#W;     t#f f#:   j#E.   \n")
+    stdout.write("  E#tiW#G.         ,WW;  E#t       E#K:             E#tiW#G.    E#tiW#G.       f#D#;  .D#j     \n")
+    stdout.write("  E#K##i            .D#; E#t       ED.              E#K##i      E#K##i          G#t  ,WK,      \n")
+    stdout.write("  E##D.               tt EE.       t                E##D.       E##D.            t   EG.       \n")
+    stdout.write("  E#t                    t                          E#t         E#t                  ,         \n")
+    stdout.write("  L:                                                L:          L:                              \n")
     stdout.write("             " + Fore.LIGHTCYAN_EX + "        ══╦═════════════════════════════════╦══\n")
     stdout.write("             " + Fore.LIGHTCYAN_EX + "╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write(
-        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "        Welcome To The Main Screen Of 0x-DDoS " + Fore.LIGHTCYAN_EX + "      ║\n")
+        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "        Welcome To The Main Screen Of Deyv-DDOS " + Fore.LIGHTCYAN_EX + "      ║\n")
     stdout.write(
         "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "          Type [help] to see the Commands    " + Fore.LIGHTCYAN_EX + "       ║\n")
     stdout.write(
-        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "         Contact Dev - Telegram @adventurefillop   " + Fore.LIGHTCYAN_EX + " ║\n")
+        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "         Contact Deyv - Facebook @Marshall Dave Añana   " + Fore.LIGHTCYAN_EX + " ║\n")
     stdout.write("             " + Fore.LIGHTCYAN_EX + "╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 
