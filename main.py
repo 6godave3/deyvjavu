@@ -1056,7 +1056,6 @@ def tools():
 
 ##############################################################################################
 def title():
-    stdout.write ("                                " + Fore.RED_EX + "                                           \n")
     stdout.write("  ;                                                 ;           ;                              \n")
     stdout.write("  ED.                                               ED.         ED.              :             \n")
     stdout.write("  E#Wi                 ,;                           E#Wi        E#Wi            t#,           .\n")
